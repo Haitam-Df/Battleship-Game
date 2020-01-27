@@ -4,6 +4,7 @@ Guess the location of your opponent's warships and sink them.
 
 Dimensions:
 8x8 (A to H & 1-8) eg. H8
+
   A     B     C     D     E     F     G     H
 1 _     _     _     _     _     _     _     _     
 2 _     _     _     _     _     _     _     _     
